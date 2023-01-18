@@ -4,4 +4,7 @@
 /fetchjson/node_modules
 /maps/node_modules
 /sort/node_modules
-/sort/build/
+/stats/node_modules
+
+/sort/build
+/stats/build
